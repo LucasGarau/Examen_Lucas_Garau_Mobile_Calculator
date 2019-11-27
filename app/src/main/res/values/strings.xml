@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen Lucas Garau</string>
+    <string name="resultado">TextView</string>
+    <string name="sumar">TODO</string>
+    <string name="numero1">0</string>
+    <string name="numero2">0</string>
+</resources>
